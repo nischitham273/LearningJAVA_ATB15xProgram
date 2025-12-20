@@ -8,7 +8,7 @@ public interface Lab002_no_comments {
         System.out.println("helllo");
         //System.out.println("thiss");
         /*
-         *System.out.println("hello NIschitha")
+         *System.outw.println("hello NIschitha")
          *
          */
 
