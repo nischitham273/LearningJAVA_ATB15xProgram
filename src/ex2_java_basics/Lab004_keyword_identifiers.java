@@ -6,6 +6,5 @@ public class Lab004_keyword_identifiers {
         System.out.println("key words and identifiers");
         int a = 100;
         System.out.println(a);
-        }
     }
 }
