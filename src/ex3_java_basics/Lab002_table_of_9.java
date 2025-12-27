@@ -1,7 +1,7 @@
 package ex3_java_basics;
 
 public class Lab002_table_of_9 {
-    public static void main() {
+    public static void main(String[] args) {
         byte a = 9;
         System.out.printf("%d * 1 = %d\n", a, a*1);
         System.out.printf("%d * 1 = %d\n", a, a*2);
