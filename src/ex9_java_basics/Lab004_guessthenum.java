@@ -28,7 +28,8 @@ public class Lab004_guessthenum {
             }
             else{
                 System.out.println("Invalid input");
-                break;
+                scanner.next();
+                continue;
             }
         }
 
