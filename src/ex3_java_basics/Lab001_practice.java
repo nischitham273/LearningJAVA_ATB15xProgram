@@ -10,7 +10,7 @@ public class Lab001_practice {
         int c = 10;
         if (a == b)
         {
-            System.out.println("equal");
+            System.out.println("equal to");
         }
         else {
             System.out.println(" not equal");
